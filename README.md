@@ -12,3 +12,5 @@ https://tmenture.github.io/run-buddy
 
 ## Contribution
 Made with ❤️ by Thomas
+
+# Run Buddy Inc.
