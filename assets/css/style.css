@@ -10,6 +10,9 @@ body {
 }
 
 header {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
     padding: 20px 35px;
     background-color: #39a6b2;
 }
@@ -19,7 +22,6 @@ header h1 {
     font-size: 36px;
     color: #fce138;
     margin: 0;
-    display: inline;
 }
 
 header a {
@@ -28,7 +30,6 @@ header a {
 }
 
 header nav {
-    float: right;
     margin: 7px 0;
 }
 
@@ -185,7 +186,7 @@ h3 {
 
 .trainer {
     width: 900px;
-    margin: 0 auto 30px auto;
+    margin: 0 auto 30px auto; 
     background: #024e76;
     color: #fce138;
     overflow: auto;
